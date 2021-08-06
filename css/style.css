@@ -1,7 +1,20 @@
+/* UTILS */
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 /* FORMS */
 .form-bg {
   background-color: #ffeb3b;
 }
+
+/* .order-li {
+  position: relative;
+  top: 7px;
+  font-size: 1.3rem;
+} */
 
 /*# sourceMappingURL=bootstrap-datepicker.css.map */ /*
   	Flaticon icon font: Flaticon
